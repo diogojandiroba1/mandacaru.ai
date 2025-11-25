@@ -1,0 +1,9 @@
+cd Backend
+
+.venv\Scripts\activate
+
+uvicorn main:app --reload
+
+cd Mandacaru.AI
+
+streamlit run app.py
