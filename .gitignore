@@ -1,0 +1,53 @@
+# Pastas de dados (grandes arquivos)
+Dados/
+Fotos/
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.venv
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Banco de dados
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Streamlit
+.streamlit/
+.streamlitscache/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+logs/
