@@ -28,11 +28,10 @@ mandacaru.ai/
 │   └── TelaPrediçãoChuva.py
 ├── Modelos/             # Notebooks de machine learning
 │   └── criaModel.ipynb
-├── Dados/               # Datasets de treinamento
+├── Dados/               # Datasets de exemplo
 │   ├── dataCanudos.csv
 │   ├── propriedades.csv
 │   └── train.csv
-├── Fotos/               # Imagens e assets
 └── requirements.txt     # Dependências gerais
 ```
 
