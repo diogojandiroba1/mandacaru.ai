@@ -99,5 +99,5 @@ O sistema utiliza:
 
 ## 📝 Licença
 
-Projeto realizado durante um Hackathon na Universidade Federal de Sergipe
+Projeto realizado durante uma Hackathon na Universidade Federal de Sergipe
 
