@@ -1,7 +1,7 @@
 import streamlit as st
 
 # ============================================================
-# CONFIGURAÇÃO DA PÁGINA (DEVE SER A PRIMEIRA LINHA)
+# CONFIGURAÇÃO DA PÁGINA 
 # ============================================================
 st.set_page_config(
     page_title="Mandacaru.AI",

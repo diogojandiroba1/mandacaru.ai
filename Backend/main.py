@@ -14,7 +14,7 @@ engine = create_engine(DATABASE_URL, connect_args={"check_same_thread": False})
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 # --- Password Hashing ---
-# O bcrypt tem o limite de 72 bytes, por isso a truncagem é essencial.
+
 pwd_context = CryptContext(schemes=["argon2"], deprecated="auto")
 
 class User(Base):
